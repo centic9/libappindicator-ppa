@@ -1,3 +1,10 @@
+libappindicator (12.10.1+20.10.20200706.1-0ubuntu6) oracular; urgency=medium
+
+  [ Balló György ]
+  * Fix unfallback from status icon (LP: #2073113).
+
+ -- Dmitry Shachnev <mitya57@ubuntu.com>  Wed, 17 Jul 2024 19:02:01 +0300
+
 libappindicator (12.10.1+20.10.20200706.1-0ubuntu5) noble; urgency=medium
 
   * No-change rebuild for CVE-2024-3094
